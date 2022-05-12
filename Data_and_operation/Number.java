@@ -1,0 +1,15 @@
+
+public class Number {
+
+	public static void main(String[] args) {
+		// operato - 연산
+		System.out.println(6+2); //8
+		System.out.println(6-2); //4
+		System.out.println(6*2); //12
+		System.out.println(6/2); //3
+		
+		System.out.println(Math.PI); // 3.14~~~
+		System.out.println(Math.floor(Math.PI)); // 정수만들기 3
+		System.out.println(Math.ceil(Math.PI)); // 정수만들고1올림 4
+	}
+}
